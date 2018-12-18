@@ -1,0 +1,1 @@
+This project to implement the Google Dialogflow python api with AWS Lambda.
